@@ -1,6 +1,6 @@
 Hi there and thanks for stopping by 🌱
 
-_avatar rendered with [stable diffusion](https://stablediffusionweb.com/)_
+_avatar was rendered with [stable diffusion](https://stablediffusionweb.com/)_
 
 <!--
 **sparkhound772/sparkhound772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
